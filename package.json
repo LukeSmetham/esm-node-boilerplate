@@ -1,0 +1,10 @@
+{
+  "name": "esm-node-boilerplate",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "license": "MIT",
+  "script": {
+	  "start": "node --es-module-specifier-resolution=node ./main.js"
+  }
+}
