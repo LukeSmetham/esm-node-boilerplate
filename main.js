@@ -1,1 +1,1 @@
-console.log("Hello, ESM!")
+console.log("Hello, ESM!");
